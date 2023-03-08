@@ -16,8 +16,8 @@
           "category": "Contributed",
           "url": "https://github.com/M-TRCH/VON-DRIVE-STM32-DEV/blob/main/VON-DRIVE-STM32-0.0.1.zip?raw=true",
           "archiveFileName": "VON-DRIVE-STM32-0.0.1.zip",
-          "checksum": "SHA-256:3ff5111b92586ccbe543de4140d348a7bc45c15ca02087c53bfe6671570132ab",
-          "size": "17814169",
+          "checksum": "SHA-256:a223ba7162fac83e4f20f2d62ddbbd6bec9f2f487836b28e4fb2b1077de60f0b",
+          "size": "17813579",
           "boards": [
             {"name": "VON-DRIVE DS"}
           ],
